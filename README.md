@@ -1,4 +1,4 @@
-# My Awesome Project
+# Leetcode
 Leetcode is my learning and applicational journey for technical interviews, programming thinkking, and problem solving ability. My goal is to sharpen my skills to rely more on my brain power than anything else and to think for myself. Enough with playing small in life. A GIF or image will be displayed once more progress is made.
 
 **Link to profile:** https://leetcode.com/ZehavaBatya/
